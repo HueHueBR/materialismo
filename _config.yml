@@ -25,8 +25,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   Um blog de ideias e ideais sobre uma vida de abundância sem exagero
   de consumo, sobre riqueza sem posse. Visões materialistas de uma
   sociedade que existe e que merece ser transformada.
-baseurl: "materialismo" # the subpath of your site, e.g. /blog
-url: "https://huehuebr.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://materialismo.com.br/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: blogmaterialismo
 github_username:  huehuebr
 
